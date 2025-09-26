@@ -16,5 +16,5 @@ It was developed as part of the **LDCW6123 – Fundamentals of Digital Competenc
 
 ### Local (if you have g++)
 ```bash
-g++ -std=c++17 -Wall -Wextra -O2 grab_fare.cpp -o grab
-./grab
+g++ -std=c++17 grab -o grab_fare_calculator
+./grab_fare_calculator
